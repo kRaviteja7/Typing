@@ -1,0 +1,21 @@
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+  
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:white /* Background color for the whole page */
+  }
+  
+  button {
+    width: 100px;
+    height: 60px;
+    background-color: black;
+    color: azure;
+    border: none; /* Remove default button border */
+    cursor: pointer; /* Change cursor to pointer on hover */
+  }
+  
